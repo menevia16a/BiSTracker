@@ -9,8 +9,8 @@ local ToastFrame;
 local ExpandFrame;
 local ConfirmDeleteFrame;
 
-local addonVersion = "1.4.4";
-local contributors = "Wizm-Mograine PvP, Devilish-Everlook Normal";
+local addonVersion = "1.5";
+local contributors = "Wizm-Mograine PvP, Devilish-Everlook Normal, Veil";
 
 local loadMessageStart = "|cFF00FFB0" .. "BiSTracker" .. ": |r";
 local loadMessage = loadMessageStart .. "|cff00cc66Version |r" .. addonVersion .. "|cff00cc66, developed and maintained by|r Yekru-Mograine PvP";
@@ -611,7 +611,7 @@ local function dropdownClick(title, dropdown)
 end
 
 local function createDropdownListSpecItems(specs, dropdownlist)
-	for itemIndex = 1, table.getn(specs) do
+	for itemIndex = 1, 4 do
 			local item = CreateFrame("Frame", nil, dropdownlist, "BiSFrameTemplate");
 			item:SetBackdropColor(1, 1, 1, 0.1);
 			item:SetPoint("LEFT", dropdownlist.TopLeft, "LEFT", -2, -1 * (itemIndex * 16) + 3);
@@ -803,7 +803,6 @@ local function createDropdownListSpecItems(specs, dropdownlist)
 			end);
 
 			item:Show();
-
 			table.insert(specItems, item);
 			dropdownlist:SetSize(100, table.getn(specs) * 16 + 15);
 			
