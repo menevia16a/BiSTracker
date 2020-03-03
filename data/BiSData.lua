@@ -788,7 +788,7 @@ BiSData = {
 					itemID = 8345,
 					Obtain = {
 						Zone = "Thousand Needles",
-						Type = "by Profession (leatherworking)",
+						Type = "by Profession (Leatherworking)",
 						Method = "Vendor: Caryssia Moonhunter",
 						Drop = "",
 					}
@@ -826,7 +826,7 @@ BiSData = {
 						Zone = "Scholomance",
 						Type = "By Killing",
 						Method = "Lord Alexei Barov",
-						Drop = "5%",
+						Drop = "10%",
 					}
 				},
 				Wrist = {
@@ -853,7 +853,7 @@ BiSData = {
 						Zone = "Blackrock Spire",
 						Type = "By Killing",
 						Method = "Quartermaster Zigris",
-						Drop = "11%",
+						Drop = "8.10%",
 					}
 				},
 				Legs = {
@@ -926,6 +926,162 @@ BiSData = {
 						Type = "",
 						Method = "",
 						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+
+			},
+			Phase3 = {
+				Head = {
+					itemID = 8345,
+					Obtain = {
+						Zone = "Thousand Needles",
+						Type = "by Profession (Leatherworking)",
+						Method = "Vendor: Caryssia Moonhunter",
+						Drop = "",
+					}
+				},
+				Neck = {
+					itemID = 19377,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "21.69%",
+					}
+				},
+				Shoulder = {
+					itemID = 16449,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching rank 13",
+						Method = "Vendor: Captain Dirgehammer",
+						Drop = "",
+					}
+				},
+				Cloak = {
+					itemID = 19436,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Trash drop",
+						Drop = "10-20%",
+					}
+				},
+				Chest = {
+					itemID = 14637,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Lord Alexei Barov",
+						Drop = "10%",
+					}
+				},
+				Wrist = {
+					itemID = 19587,
+					Obtain = {
+						Zone = "Warsong Gulch",
+						Type = "By reaching exalted",
+						Method = "Vendor: Illiyana Moonblaze/Kelm Hargunth",
+						Drop = "",
+					}
+				},
+				Gloves = {
+					itemID = 16448,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching rank 12",
+						Method = "Vendor: Captain Dirgehammer",
+						Drop = "",
+					}
+				},
+				Waist = {
+					itemID = 13252,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Quartermaster Zigris",
+						Drop = "8.10%",
+					}
+				},
+				Legs = {
+					itemID = 16450,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching rank 12",
+						Method = "Vendor: Captain Dirgehammer",
+						Drop = "",
+					}
+				},
+				Boots = {
+					itemID = 19381,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "15.08%",
+					}
+				},
+				Ring1 = {
+					itemID = 17063,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "13%",
+					}
+				},
+				Ring2 = {
+					itemID = 19432,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Flamegor",
+						Drop = "21.43%",
+					}
+				},
+				Trinket1 = {
+					itemID = 13965,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Quest",
+						Method = "General Drakkisath's Demise",
+						Drop = "",
+					}
+				},
+				Trinket2 = {
+					itemID = 19406,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "17.84%",
+					}
+				},
+				MainHand = {
+					itemID = 18865,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching rank 14",
+						Method = "Vendor: Captain O'Neal",
+						Drop = "",
+					}
+				},
+				OffHand = {
+					itemID = 13385,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Archivist Galford",
+						Drop = "13.81%",
 					}
 				},
 				Ranged = {
