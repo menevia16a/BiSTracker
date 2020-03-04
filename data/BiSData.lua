@@ -2967,7 +2967,7 @@ BiSData = {
 				Ranged = {
 					itemID = 18713,
 					Obtain = {
-						Zone = "Molten COre",
+						Zone = "Molten Core",
 						Type = "By Quest",
 						Method = "",
 						Drop = "",
@@ -4702,7 +4702,7 @@ BiSData = {
 
 			},
 			Phase2 = {
-			Head = {
+				Head = {
 					itemID = 18490,
 					Obtain = {
 						Zone = "Dire Maul",
@@ -4743,8 +4743,8 @@ BiSData = {
 					Obtain = {
 						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Gehennas,Lucifron,Shazzrah",
-						Drop = "10%",
+						Method = "Several Bosses",
+						Drop = "4-7%",
 					}
 				},
 				Wrist = {
@@ -4779,7 +4779,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Gehennas,Sulfruron Harbinger,Lucifron,Shazzrah",
+						Method = "Several Bosses",
 						Drop = "23.67%",
 					}
 				},
@@ -4855,8 +4855,162 @@ BiSData = {
 						Drop = "",
 					}
 				},
-
 			},
+			Phase3 = {
+				Head = {
+					itemID = 19132,
+					Obtain = {
+						Zone = "Azshara",
+						Type = "By Killing",
+						Method = "Azuregos",
+						Drop = "15%",
+					}
+				},
+				Neck = {
+					itemID = 18814,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "11%",
+					}
+				},
+				Shoulder = {
+					itemID = 18810,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "5%",
+					}
+				},
+				Cloak = {
+					itemID = 18510,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "by Profession (Leatherworking)",
+						Method = "Knot Thimblejack's Cache",
+						Drop = "1.6%",
+					}
+				},
+				Chest = {
+					itemID = 19145,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "4-7%",
+					}
+				},
+				Wrist = {
+					itemID = 13969,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Kirtonos the Herald",
+						Drop = "14%",
+					}
+				},
+				Gloves = {
+					itemID = 18527,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "King Gordok",
+						Drop = "25%",
+					}
+				},
+				Waist = {
+					itemID = 19162,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "by Profession (Leatherworking)",
+						Method = "Thorium Brotherhood",
+						Drop = "100%",
+					}
+				},
+				Legs = {
+					itemID = 19385,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "20.20%",
+					}
+				},
+				Boots = {
+					itemID = 19437,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "8-14%",
+					}
+				},
+				Ring1 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomus Exekutus",
+						Drop = "5%",
+					}
+				},
+				Ring2 = {
+					itemID = 19382,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "16.41%",
+					}
+				},
+				Trinket1 = {
+					itemID = 17064,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "8%",
+					}
+				},
+				Trinket2 = {
+					itemID = 19395,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "10-13%",
+					}
+				},
+				MainHand = {
+					itemID = 19360,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "11.11%",
+					}
+				},
+				OffHand = {
+					itemID = 19312,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching exalted with Alterac Valley",
+						Method = "Vendor: Any Alterac Valley supply officer",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+			}
 		},
 		Retribution = {
 			Phase1 = {
