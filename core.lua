@@ -105,7 +105,8 @@ local hunterSpecs = {
 	"All"
 };
 local mageSpecs = {
-	"All"
+	"Dual-wield",
+	"Two-handed"
 };
 local paladinSpecs = {
 	"Holy",
