@@ -3447,6 +3447,162 @@ BiSData = {
 					}
 				},
 
+			},
+			Phase3 = {
+				Head = {
+					itemID = 19375,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "13.02%",
+					}
+				},
+				Neck = {
+					itemID = 18814,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "11%",
+					}
+				},
+				Shoulder = {
+					itemID = 19370,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Razorgore the Untamed",
+						Drop = "17.40%",
+					}
+				},
+				Cloak = {
+					itemID = 19378,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "16.40%",
+					}
+				},
+				Chest = {
+					itemID = 14152,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Profession (Tailoring)",
+						Method = "Kill: Firebrand Pyromancer",
+						Drop = "6%",
+					}
+				},
+				Wrist = {
+					itemID = 19374,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Broodlord Lashlayer",
+						Drop = "19.22%",
+					}
+				},
+				Gloves = {
+					itemID = 16913,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "14-17%",
+					}
+				},
+				Waist = {
+					itemID = 19136,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "8%",
+					}
+				},
+				Legs = {
+					itemID = 16915,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "17%",
+					}
+				},
+				Boots = {
+					itemID = 19438,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Death Talon Wyrmguard",
+						Drop = "16.83%",
+					}
+				},
+				Ring1 = {
+					itemID = 19147,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "5%",
+					}
+				},
+				Ring2 = {
+					itemID = 19403,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "18.74%",
+					}
+				},
+				Trinket1 = {
+					itemID = 19379,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "19.53%",
+					}
+				},
+				Trinket2 = {
+					itemID = 18820,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "7%",
+					}
+				},
+				MainHand = {
+					itemID = 17103,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Golemagg the Incinerator",
+						Drop = "25%",
+					}
+				},
+				OffHand = {
+					itemID = 19310,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching exalted with Alterac Valley",
+						Method = "Vendor: Any Alterac Valley Supply officer",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 19130,
+					Obtain = {
+						Zone = "Azshara",
+						Type = "By Killing",
+						Method = "Azuregos",
+						Drop = "5%",
+					}
+				},
+
 			}
 		}
 	},
