@@ -615,12 +615,12 @@ BiSData = {
 					}
 				},
 				Ranged = {
-					itemID = 0,
+					itemID = 23198,
 					Obtain = {
-						Zone = "",
-						Type = "",
-						Method = "",
-						Drop = "",
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Magistrate Barthilas",
+						Drop = "2.60%",
 					}
 				},
 
@@ -1576,12 +1576,12 @@ BiSData = {
 					}
 				},
 				Neck = {
-					itemID = 18723,
+					itemID = 18814,
 					Obtain = {
-						Zone = "Stratholme",
+						Zone = "Molten Core",
 						Type = "By Killing",
-						Method = "Ramstein the Gorger",
-						Drop = "7%",
+						Method = "Ragnaros",
+						Drop = "10%",
 					}
 				},
 				Shoulder = {
@@ -1708,6 +1708,162 @@ BiSData = {
 						Type = "By Killing",
 						Method = "King Gordok",
 						Drop = "24%",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+
+			},
+			Phase3 = {
+				Head = {
+					itemID = 19132,
+					Obtain = {
+						Zone = "Azshara",
+						Type = "By Killing",
+						Method = "Azuregos",
+						Drop = "15.01%",
+					}
+				},
+				Neck = {
+					itemID = 18814,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "10%",
+					}
+				},
+				Shoulder = {
+					itemID = 18810,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "5%",
+					}
+				},
+				Cloak = {
+					itemID = 19430,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Flamegor",
+						Drop = "19.84%",
+					}
+				},
+				Chest = {
+					itemID = 13346,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Baron Rivendare",
+						Drop = "15%",
+					}
+				},
+				Wrist = {
+					itemID = 16904,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Razorgore the Untamed",
+						Drop = "20.55%",
+					}
+				},
+				Gloves = {
+					itemID = 16899,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "12-14%",
+					}
+				},
+				Waist = {
+					itemID = 19162,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Profession (Leatherworking)",
+						Method = "Thorium Brotherhood",
+						Drop = "",
+					}
+				},
+				Legs = {
+					itemID = 19385,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "33%",
+					}
+				},
+				Boots = {
+					itemID = 19437,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "8-14%",
+					}
+				},
+				Ring1 = {
+					itemID = 19382,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "16.41%",
+					}
+				},
+				Ring2 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Majordomo Executus",
+						Drop = "21%",
+					}
+				},
+				Trinket1 = {
+					itemID = 19395,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "10-13%",
+					}
+				},
+				Trinket2 = {
+					itemID = 19379,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "19.84%",
+					}
+				},
+				MainHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "8.20%",
+					}
+				},
+				OffHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
 					}
 				},
 				Ranged = {
