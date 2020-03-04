@@ -468,6 +468,162 @@ BiSData = {
 					}
 				},
 
+			},
+			Phase3 = {
+				Head = {
+					itemID = 16550,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching rank 13",
+						Method = "Vendor: Lady Palanseer",
+						Drop = "",
+					}
+				},
+				Neck = {
+					itemID = 19383,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Quest",
+						Method = "The Lord of Blackrock",
+						Drop = "",
+					}
+				},
+				Shoulder = {
+					itemID = 19389,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "20.13%",
+					}
+				},
+				Cloak = {
+					itemID = 19386,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "30%",
+					}
+				},
+				Chest = {
+					itemID = 19405,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "16.60%",
+					}
+				},
+				Wrist = {
+					itemID = 19587,
+					Obtain = {
+						Zone = "Warsong Gulch",
+						Type = "By reaching exalted",
+						Method = "Vendor: Illiyana Moonblaze/Kelm Hargunth",
+						Drop = "",
+					}
+				},
+				Gloves = {
+					itemID = 13258,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Killing",
+						Method = "Urok Doomhowl",
+						Drop = "32.84%",
+					}
+				},
+				Waist = {
+					itemID = 19163,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By profession (Leatherworking)",
+						Method = "Vendor: Lokhtos Darkbargainer",
+						Drop = "",
+					}
+				},
+				Legs = {
+					itemID = 16552,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching rank 12",
+						Method = "Vendor: Lady Palanseer",
+						Drop = "",
+					}
+				},
+				Boots = {
+					itemID = 19381,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "15.08%",
+					}
+				},
+				Ring1 = {
+					itemID = 17063,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "13%",
+					}
+				},
+				Ring2 = {
+					itemID = 19376,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "19.84%",
+					}
+				},
+				Trinket1 = {
+					itemID = 11811,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By profession (Enchanting)",
+						Method = "Drop: Lord Roccor",
+						Drop = "41.67%",
+					}
+				},
+				Trinket2 = {
+					itemID = 19406,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "17.84%",
+					}
+				},
+				MainHand = {
+					itemID = 943,
+					Obtain = {
+						Zone = "Zul'Farrak",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "~0.1%",
+					}
+				},
+				OffHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+
 			}
 		},
 		FeralDps = {
@@ -944,7 +1100,7 @@ BiSData = {
 					itemID = 8345,
 					Obtain = {
 						Zone = "Thousand Needles",
-						Type = "by Profession (Leatherworking)",
+						Type = "By Profession (Leatherworking)",
 						Method = "Vendor: Caryssia Moonhunter",
 						Drop = "",
 					}
@@ -1565,7 +1721,7 @@ BiSData = {
 				},
 
 			}
-	},
+		},
 		Balance = {
 			Phase1 = {
 				Head = {
