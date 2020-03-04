@@ -105,8 +105,8 @@ local hunterSpecs = {
 	"All"
 };
 local mageSpecs = {
-	"Dual-wield",
-	"Two-handed"
+	"DualWield",
+	"TwoHanded"
 };
 local paladinSpecs = {
 	"Holy",
@@ -152,7 +152,7 @@ elseif englishClass == "HUNTER" then
 	spec = "All";
 elseif englishClass == "MAGE" then
 	class = "Mage";
-	spec = "All";
+	spec = "DualWield";
 elseif englishClass == "PALADIN" then
 	class = "Paladin";
 	spec = "Holy";

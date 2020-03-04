@@ -3134,7 +3134,7 @@ BiSData = {
 		},	
 	},
 	Mage = {
-		Dual-wield = {
+		DualWield = {
 			Phase1 = {
 				Head = {
 					itemID = 10504,
@@ -3760,7 +3760,7 @@ BiSData = {
 
 			}
 		},
-		Two-handed = {
+		TwoHanded = {
 			Phase1 = {
 				Head = {
 					itemID = 10504,
