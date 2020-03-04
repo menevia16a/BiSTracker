@@ -6103,8 +6103,163 @@ BiSData = {
 						Drop = "",
 					}
 				},
-
 			},
+			Phase3 = {
+				Head = {
+					itemID = 19372,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Vaelastrasz the Corrupt",
+						Drop = "16.64%",
+					}
+				},
+				Neck = {
+					itemID = 17065,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "32%",
+					}
+				},
+				Shoulder = {
+					itemID = 19394,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "10-15%",
+					}
+				},
+				Cloak = {
+					itemID = 19386,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "15.40%",
+					}
+				},
+				Chest = {
+					itemID = 14624,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Lord Alexei Barov",
+						Drop = "4%",
+					}
+				},
+				Wrist = {
+					itemID = 18754,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "By Killing",
+						Method = "Lord Hel'nurath",
+						Drop = "19%",
+					}
+				},
+				Gloves = {
+					itemID = 14622,
+					Obtain = {
+						Zone = "Scholomance",
+						Type = "By Killing",
+						Method = "Doctor Theolen Krastinov",
+						Drop = "3%",
+					}
+				},
+				Waist = {
+					itemID = 19392,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "11.92%",
+					}
+				},
+				Legs = {
+					itemID = 19402,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Firemaw",
+						Drop = "8.30%",
+					}
+				},
+				Boots = {
+					itemID = 18806,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "23%",
+					}
+				},
+				Ring1 = {
+					itemID = 11669,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Golem Lord Argelmach",
+						Drop = "27%",
+					}
+				},
+				Ring2 = {
+					itemID = 19376,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "19.53%",
+					}
+				},
+				Trinket1 = {
+					itemID = 19431,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Flamegor",
+						Drop = "20.94%",
+					}
+				},
+				Trinket2 = {
+					itemID = 18406,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "By Quest: Head of Onyxia",
+						Drop = "100%",
+					}
+				},
+				MainHand = {
+					itemID = 19019,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Quest",
+						Method = "Rise, Thunderfury!",
+						Drop = "",
+					}
+				},
+				OffHand = {
+					itemID = 19349,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "8.77%",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+
+			}
 		}
 	},
 	Priest = {
