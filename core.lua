@@ -115,7 +115,6 @@ local paladinSpecs = {
 };
 local priestSpecs = {
 	"Holy",
-	"Hybrid",
 	"Shadow"
 };
 local rogueSpecs = {
