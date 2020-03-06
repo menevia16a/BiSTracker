@@ -6730,6 +6730,161 @@ BiSData = {
 						Drop = "39%",
 					}
 				},
+			},
+			Phase3 = {
+				Head = {
+					itemID = 16921,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "26%",
+					}
+				},
+				Neck = {
+					itemID = 18723,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "By Killing",
+						Method = "Ramstein the Gorger",
+						Drop = "7%",
+					}
+				},
+				Shoulder = {
+					itemID = 16816,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Sulfuron Harbinger",
+						Drop = "33%",
+					}
+				},
+				Cloak = {
+					itemID = 18510,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "by Profession (leatherworking)",
+						Method = "Knot Thimblejack's Cache",
+						Drop = "1.6%",
+					}
+				},
+				Chest = {
+					itemID = 14154,
+					Obtain = {
+						Zone = "Stratholme",
+						Type = "by Profession (Tailoring)",
+						Method = "Kill: Balnazzar",
+						Drop = "3%",
+					}
+				},
+				Wrist = {
+					itemID = 16819,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "2%",
+					}
+				},
+				Gloves = {
+					itemID = 16812,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Gehennas",
+						Drop = "32%",
+					}
+				},
+				Waist = {
+					itemID = 16817,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Trash",
+						Drop = "2%",
+					}
+				},
+				Legs = {
+					itemID = 16922,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "13%",
+					}
+				},
+				Boots = {
+					itemID = 16811,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Shazzrah",
+						Drop = "24%",
+					}
+				},
+				Ring1 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Majordomo Executus",
+						Drop = "21%",
+					}
+				},
+				Ring2 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Majordomo Executus",
+						Drop = "21%",
+					}
+				},
+				Trinket1 = {
+					itemID = 18469,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Quest",
+						Method = "Holy Bologna",
+						Drop = "",
+					}
+				},
+				Trinket2 = {
+					itemID = 17064,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "8%",
+					}
+				},
+				MainHand = {
+					itemID = 18608,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Quest",
+						Method = "",
+						Drop = "",
+					}
+				},
+				OffHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 18483,
+					Obtain = {
+						Zone = "Dire Maul",
+						Type = "by Killing",
+						Method = "Cho'Rush the Observer",
+						Drop = "39%",
+					}
+				},
 
 			}
 		},
@@ -8273,7 +8428,7 @@ BiSData = {
 					}
 				},
 				MainHand = {
-					itemID = 12783,
+					itemID = 12590,
 					Obtain = {
 						Zone = "Blackrock Spire",
 						Type = "By Killing",
