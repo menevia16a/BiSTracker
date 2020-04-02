@@ -9233,6 +9233,162 @@ BiSData = {
 					}
 				},
 
+			},
+			Phase3 = {
+				Head = {
+					itemID = 19375,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "15.05%",
+					}
+				},
+				Neck = {
+					itemID = 18814,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "11%",
+					}
+				},
+				Shoulder = {
+					itemID = 18829,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "2%",
+					}
+				},
+				Cloak = {
+					itemID = 19378,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "19.34%",
+					}
+				},
+				Chest = {
+					itemID = 16950,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9.92%",
+					}
+				},
+				Wrist = {
+					itemID = 19374,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Broodlord Lashlayer",
+						Drop = "18.30%",
+					}
+				},
+				Gloves = {
+					itemID = 16948,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "6%",
+					}
+				},
+				Waist = {
+					itemID = 19400,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Firemaw",
+						Drop = "14.30%",
+					}
+				},
+				Legs = {
+					itemID = 16946,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "4%",
+					}
+				},
+				Boots = {
+					itemID = 16949,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Broodlord Lashlayer",
+						Drop = "10.66%",
+					}
+				},
+				Ring1 = {
+					itemID = 19147,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "5%",
+					}
+				},
+				Ring2 = {
+					itemID = 19403,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "17.45%",
+					}
+				},
+				Trinket1 = {
+					itemID = 19379,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "18.76%",
+					}
+				},
+				Trinket2 = {
+					itemID = 18820,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "8%",
+					}
+				},
+				MainHand = {
+					itemID = 19360,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "8.66%",
+					}
+				},
+				OffHand = {
+					itemID = 19366,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Quest",
+						Method = "The Lord of Blackrock",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+
 			}
 		},
 		Enhancement = {
@@ -9664,6 +9820,162 @@ BiSData = {
 						Type = "by Quest",
 						Method = "General Drakkisath's Demise",
 						Drop = "",
+					}
+				},
+				Trinket2 = {
+					itemID = 11815,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Emperor Dagran Thaurissan",
+						Drop = "4%",
+					}
+				},
+				MainHand = {
+					itemID = 17104,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Ragnaros",
+						Drop = "5%",
+					}
+				},
+				OffHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+
+			},
+			Phase3 = {
+				Head = {
+					itemID = 18817,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "14%",
+					}
+				},
+				Neck = {
+					itemID = 18404,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "by Killing",
+						Method = "by Quest: Head of Onyxia",
+						Drop = "100%",
+					}
+				},
+				Shoulder = {
+					itemID = 16580,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching rank 13",
+						Method = "Vendor: Lady Palanseer",
+						Drop = "",
+					}
+				},
+				Cloak = {
+					itemID = 19436,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "9-18%",
+					}
+				},
+				Chest = {
+					itemID = 11726,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Gorosh the Dervish",
+						Drop = "11%",
+					}
+				},
+				Wrist = {
+					itemID = 18812,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "5%",
+					}
+				},
+				Gloves = {
+					itemID = 19157,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By profession (Leatherworking)",
+						Method = "Vendor: Lokhtos Darkbargainer",
+						Drop = "",
+					}
+				},
+				Waist = {
+					itemID = 19380,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "18.67%",
+					}
+				},
+				Legs = {
+					itemID = 15062,
+					Obtain = {
+						Zone = "Un'Goro Crater",
+						Type = "by Profession (Leatherworking)",
+						Method = "Glutinous Ooze",
+						Drop = "1.08%",
+					}
+				},
+				Boots = {
+					itemID = 19381,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "16.40%",
+					}
+				},
+				Ring1 = {
+					itemID = 19325,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching exalted with Alterac Valley",
+						Method = "Vendor: Gaelden Hammersmith/Thanthaldis Snowgleam",
+						Drop = "",
+					}
+				},
+				Ring2 = {
+					itemID = 19384,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Quest",
+						Method = "The Lord of Blackrock",
+						Drop = "",
+					}
+				},
+				Trinket1 = {
+					itemID = 19406,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "17.73%",
 					}
 				},
 				Trinket2 = {
