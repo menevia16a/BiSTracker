@@ -10484,10 +10484,164 @@ BiSData = {
 						Drop = "",
 					}
 				},
+			},
+			Phase3 = {
+				Head = {
+					itemID = 16947,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "8.99%",
+					}
+				},
+				Neck = {
+					itemID = 18814,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "7.84%",
+					}
+				},
+				Shoulder = {
+					itemID = 16945,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "8.73%",
+					}
+				},
+				Cloak = {
+					itemID = 19430,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Flamegor",
+						Drop = "20.01%",
+					}
+				},
+				Chest = {
+					itemID = 16950,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9.92%",
+					}
+				},
+				Wrist = {
+					itemID = 16840,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "0.3-1.1%",
+					}
+				},
+				Gloves = {
+					itemID = 16839,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Gehennas",
+						Drop = "16.15%",
+					}
+				},
+				Waist = {
+					itemID = 16838,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "0.3-1.1%",
+					}
+				},
+				Legs = {
+					itemID = 16843,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "9.24%",
+					}
+				},
+				Boots = {
+					itemID = 16837,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Lucifron",
+						Drop = "10.96%",
+					}
+				},
+				Ring1 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Majordomo Executus",
+						Drop = "21%",
+					}
+				},
+				Ring2 = {
+					itemID = 19382,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "18.08%",
+					}
+				},
+				Trinket1 = {
+					itemID = 17064,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "8%",
+					}
+				},
+				Trinket2 = {
+					itemID = 19395,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "11-13%",
+					}
+				},
+				MainHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "8.07%",
+					}
+				},
+				OffHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 
 			}
 		}
-		
 	},
 	Warlock = {
 		All = {
