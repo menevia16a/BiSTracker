@@ -12362,7 +12362,161 @@ BiSData = {
 						Drop = "19%",
 					}
 				},
-
+			},
+			Phase3 = {
+				Head = {
+					itemID = 19372,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Vaelastrasz the Corrupt",
+						Drop = "19.30%",
+					}
+				},
+				Neck = {
+					itemID = 17065,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "20%",
+					}
+				},
+				Shoulder = {
+					itemID = 19394,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "10-14%",
+					}
+				},
+				Cloak = {
+					itemID = 17107,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "15.69%",
+					}
+				},
+				Chest = {
+					itemID = 16966,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "21.45%",
+					}
+				},
+				Wrist = {
+					itemID = 16959,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Razorgore the Untamed",
+						Drop = "24.37%",
+					}
+				},
+				Gloves = {
+					itemID = 16964,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "15-16%",
+					}
+				},
+				Waist = {
+					itemID = 16960,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Vaelastrasz the Corrupt",
+						Drop = "22%",
+					}
+				},
+				Legs = {
+					itemID = 16962,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Treasure",
+						Method = "Ragnaros",
+						Drop = "12%",
+					}
+				},
+				Boots = {
+					itemID = 19387,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "19.48%",
+					}
+				},
+				Ring1 = {
+					itemID = 19325,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching exalted with Alterac Valley",
+						Method = "Vendor: Any Alterac Supply Officer",
+						Drop = "",
+					}
+				},
+				Ring2 = {
+					itemID = 19432,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Flamegor",
+						Drop = "19.31%",
+					}
+				},
+				Trinket1 = {
+					itemID = 19431,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Flamegor",
+						Drop = "20.84%",
+					}
+				},
+				Trinket2 = {
+					itemID = 19406,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "17.73%",
+					}
+				},
+				MainHand = {
+					itemID = 19019,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Quest",
+						Method = "Rise, Thunderfury",
+						Drop = "",
+					}
+				},
+				OffHand = {
+					itemID = 19349,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "9.09%",
+					}
+				},
+				Ranged = {
+					itemID = 19368,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "10.23%",
+					}
+				},
 			}
 		}		
 	}	
