@@ -11738,7 +11738,161 @@ BiSData = {
 						Drop = "19%",
 					}
 				},
-
+			},
+			Phase3 = {
+				Head = {
+					itemID = 12640,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Profession (Blacksmithing)",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Neck = {
+					itemID = 18404,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Quest",
+						Method = "Celebrating Good Times",
+						Drop = "",
+					}
+				},
+				Shoulder = {
+					itemID = 19394,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "10-14%",
+					}
+				},
+				Cloak = {
+					itemID = 19436,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "9-18%",
+					}
+				},
+				Chest = {
+					itemID = 11726,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Gorosh the Dervish",
+						Drop = "11%",
+					}
+				},
+				Wrist = {
+					itemID = 19578,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching exalted with Warsong Gulch",
+						Method = "Vendor: Illiyana Moonblaze/Kelm Hargunth",
+						Drop = "",
+					}
+				},
+				Gloves = {
+					itemID = 15063,
+					Obtain = {
+						Zone = "Un'Goro Crater",
+						Type = "by Profession (Leatherworking)",
+						Method = "Vendor: Nergal",
+						Drop = "",
+					}
+				},
+				Waist = {
+					itemID = 19137,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Quest",
+						Method = "Ragnaros",
+						Drop = "15.69%",
+					}
+				},
+				Legs = {
+					itemID = 15062,
+					Obtain = {
+						Zone = "Un'Goro Crater",
+						Type = "by Profession (Leatherworking)",
+						Method = "Glutinous Ooze",
+						Drop = "1.08%",
+					}
+				},
+				Boots = {
+					itemID = 19387,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "19.48%",
+					}
+				},
+				Ring1 = {
+					itemID = 19325,
+					Obtain = {
+						Zone = "PvP",
+						Type = "By reaching exalted with Alterac Valley",
+						Method = "Vendor: Any Alterac Supply Officer",
+						Drop = "",
+					}
+				},
+				Ring2 = {
+					itemID = 19384,
+					Obtain = {
+						Zone = "Blackrock Spire",
+						Type = "By Quest",
+						Method = "The Lord of Blackrock",
+						Drop = "",
+					}
+				},
+				Trinket1 = {
+					itemID = 19406,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "17.73%",
+					}
+				},
+				Trinket2 = {
+					itemID = 11815,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Emperor Dagran Thaurissan",
+						Drop = "4%",
+					}
+				},
+				MainHand = {
+					itemID = 17112,
+					Obtain = {
+						Zone = "Blasted Lands",
+						Type = "By Killing",
+						Method = "World Boss: Lord Kazzak",
+						Drop = "15.23%",
+					}
+				},
+				OffHand = {
+					itemID = 19351,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Broodlord Lashlayer",
+						Drop = "10.79%",
+					}
+				},
+				Ranged = {
+					itemID = 17069,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "20.37%",
+					}
+				},
 			}
 		},
 		Protection = {
