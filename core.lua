@@ -9,7 +9,7 @@ local ToastFrame;
 local ExpandFrame;
 local ConfirmDeleteFrame;
 
-local addonVersion = "2.1";
+local addonVersion = "2.2";
 local contributors = "Wizm-Mograine PvP, Devilish-Everlook Normal, Veil";
 
 local loadMessageStart = "|cFF00FFB0" .. "BiSTracker" .. ": |r";

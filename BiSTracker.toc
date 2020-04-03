@@ -1,9 +1,9 @@
-## Interface: 11302
+## Interface: 11304
 
 ## Title: Veil's BiS Tracker
 ## Notes: Shows BiS items for every class, and where to get them.
 ## Author: Yes & Veil
-## Version: 2.1
+## Version: 2.2
 ## SavedVariablesPerCharacter: BiS_Settings
 
 Templates.xml
