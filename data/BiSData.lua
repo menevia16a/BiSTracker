@@ -9850,7 +9850,7 @@ BiSData = {
 						Zone = "Blackwing Lair",
 						Type = "by Killing",
 						Method = "Nefarian",
-						Drop = "100%",
+						Drop = "19.36%",
 					}
 				},
 				Shoulder = {
@@ -9894,7 +9894,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackwing Lair",
 						Type = "by Killing",
-						Method = "Ebenroc, Flamegor, Firemaw",
+						Method = "Ebonroc, Flamegor, Firemaw",
 						Drop = "7-10%",
 					}
 				},
@@ -9957,7 +9957,162 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackwing Lair",
 						Type = "By Killing",
-						Method = "Ebenroc",
+						Method = "Ebonroc",
+						Drop = "10%",
+					}
+				},
+				MainHand = {
+					itemID = 19352,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "12%",
+					}
+				},
+				OffHand = {
+					itemID = 19351,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Broodlord Lashlayer",
+						Drop = "13%",
+					}
+				},
+				Ranged = {
+					itemID = 17069,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "21%",
+					}
+				},
+			},
+			Phase4 = {
+				Head = {
+					itemID = 16908,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "18%",
+					}
+				},
+				Neck = {
+					itemID = 19377,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "by Killing",
+						Method = "Nefarian",
+						Drop = "19.36%",
+					}
+				},
+				Shoulder = {
+					itemID = 16832,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "24%",
+					}
+				},
+				Cloak = {
+					itemID = 19398,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Firemaw",
+						Drop = "7%",
+					}
+				},
+				Chest = {
+					itemID = 16905,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "12%",
+					}
+				},
+				Wrist = {
+					itemID = 16911,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Razorgore the Untamed",
+						Drop = "19%",
+					}
+				},
+				Gloves = {
+					itemID = 16907,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "by Killing",
+						Method = "Ebonroc, Flamegor, Firemaw",
+						Drop = "7-10%",
+					}
+				},
+				Waist = {
+					itemID = 16910,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Vaelastrasz the Corrupt",
+						Drop = "15%",
+					}
+				},
+				Legs = {
+					itemID = 16909,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Ragnaros",
+						Drop = "14%",
+					}
+				},
+				Boots = {
+					itemID = 16906,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Broodlord Lashlayer",
+						Drop = "26%",
+					}
+				},
+				Ring1 = {
+					itemID = 17063,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "13%",
+					}
+				},
+				Ring2 = {
+					itemID = 19384,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian - Quest: The Lord of Blackrock",
+						Drop = "44%",
+					}
+				},
+				Trinket1 = {
+					itemID = 11815,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "by Killing",
+						Method = "General Angerforge",
+						Drop = "5%",
+					}
+				},
+				Trinket2 = {
+					itemID = 19406,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
 						Drop = "10%",
 					}
 				},
@@ -10475,16 +10630,16 @@ BiSData = {
 						Zone = "Blackwing Lair",
 						Type = "by Killing",
 						Method = "Nefarian",
-						Drop = "100%",
+						Drop = "19.36%",
 					}
 				},
 				Shoulder = {
-					itemID = 16823,
+					itemID = 16832,
 					Obtain = {
-						Zone = "Molten Core",
+						Zone = "Blackwing Lair",
 						Type = "By Killing",
-						Method = "Sulfuron Harbinger",
-						Drop = "35%",
+						Method = "Chromaggus",
+						Drop = "24%",
 					}
 				},
 				Cloak = {
@@ -10493,7 +10648,7 @@ BiSData = {
 						Zone = "Blackwing Lair",
 						Type = "By Killing",
 						Method = "Firemaw",
-						Drop = "7.41%",
+						Drop = "7%",
 					}
 				},
 				Chest = {
@@ -10502,7 +10657,7 @@ BiSData = {
 						Zone = "Blackwing Lair",
 						Type = "By Killing",
 						Method = "Nefarian",
-						Drop = "12.50%",
+						Drop = "12%",
 					}
 				},
 				Wrist = {
@@ -10511,16 +10666,16 @@ BiSData = {
 						Zone = "Blackwing Lair",
 						Type = "By Killing",
 						Method = "Razorgore the Untamed",
-						Drop = "18.52%",
+						Drop = "19%",
 					}
 				},
 				Gloves = {
-					itemID = 18823,
+					itemID = 16907,
 					Obtain = {
-						Zone = "Molton Core",
-						Type = "By Killing",
-						Method = "Several Bosses",
-						Drop = "5-11%",
+						Zone = "Blackwing Lair",
+						Type = "by Killing",
+						Method = "Ebonroc, Flamegor, Firemaw",
+						Drop = "7-10%",
 					}
 				},
 				Waist = {
@@ -10529,7 +10684,7 @@ BiSData = {
 						Zone = "Blackwing Lair",
 						Type = "By Killing",
 						Method = "Vaelastrasz the Corrupt",
-						Drop = "15.38%",
+						Drop = "15%",
 					}
 				},
 				Legs = {
@@ -10542,12 +10697,12 @@ BiSData = {
 					}
 				},
 				Boots = {
-					itemID = 19381,
+					itemID = 16906,
 					Obtain = {
 						Zone = "Blackwing Lair",
 						Type = "By Killing",
-						Method = "Nefarian",
-						Drop = "12.50%",
+						Method = "Broodlord Lashlayer",
+						Drop = "26%",
 					}
 				},
 				Ring1 = {
@@ -10565,16 +10720,16 @@ BiSData = {
 						Zone = "Blackwing Lair",
 						Type = "By Killing",
 						Method = "Nefarian - Quest: The Lord of Blackrock",
-						Drop = "43.75%",
+						Drop = "44%",
 					}
 				},
 				Trinket1 = {
-					itemID = 13965,
+					itemID = 11815,
 					Obtain = {
-						Zone = "Blackrock Spire",
-						Type = "By Quest",
-						Method = "General Drakkisath's Demise",
-						Drop = "",
+						Zone = "Blackrock Depths",
+						Type = "by Killing",
+						Method = "General Angerforge",
+						Drop = "5%",
 					}
 				},
 				Trinket2 = {
@@ -10583,7 +10738,162 @@ BiSData = {
 						Zone = "Blackwing Lair",
 						Type = "By Killing",
 						Method = "Ebonroc",
-						Drop = "9.52%",
+						Drop = "10%",
+					}
+				},
+				MainHand = {
+					itemID = 18816,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "16%",
+					}
+				},
+				OffHand = {
+					itemID = 18805,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "10%",
+					}
+				},
+				Ranged = {
+					itemID = 17069,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "21%",
+					}
+				},
+			},
+			Phase4 = {
+				Head = {
+					itemID = 16908,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "18%",
+					}
+				},
+				Neck = {
+					itemID = 19377,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "by Killing",
+						Method = "Nefarian",
+						Drop = "19.36%",
+					}
+				},
+				Shoulder = {
+					itemID = 16832,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "24%",
+					}
+				},
+				Cloak = {
+					itemID = 19398,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Firemaw",
+						Drop = "7%",
+					}
+				},
+				Chest = {
+					itemID = 16905,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "12%",
+					}
+				},
+				Wrist = {
+					itemID = 16911,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Razorgore the Untamed",
+						Drop = "19%",
+					}
+				},
+				Gloves = {
+					itemID = 16907,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "by Killing",
+						Method = "Ebonroc, Flamegor, Firemaw",
+						Drop = "7-10%",
+					}
+				},
+				Waist = {
+					itemID = 16910,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Vaelastrasz the Corrupt",
+						Drop = "15%",
+					}
+				},
+				Legs = {
+					itemID = 16909,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Ragnaros",
+						Drop = "14%",
+					}
+				},
+				Boots = {
+					itemID = 16906,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Broodlord Lashlayer",
+						Drop = "26%",
+					}
+				},
+				Ring1 = {
+					itemID = 17063,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "13%",
+					}
+				},
+				Ring2 = {
+					itemID = 19384,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian - Quest: The Lord of Blackrock",
+						Drop = "44%",
+					}
+				},
+				Trinket1 = {
+					itemID = 11815,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "by Killing",
+						Method = "General Angerforge",
+						Drop = "5%",
+					}
+				},
+				Trinket2 = {
+					itemID = 19406,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "10%",
 					}
 				},
 				MainHand = {
