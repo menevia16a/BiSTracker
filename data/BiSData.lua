@@ -13890,9 +13890,163 @@ BiSData = {
 						Drop = "21%",
 					}
 				},
+			},
+			Phase4 = {
+				Head = {
+					itemID = 19375,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "15.05%",
+					}
+				},
+				Neck = {
+					itemID = 18814,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "7.84%",
+					}
+				},
+				Shoulder = {
+					itemID = 16932,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "21.35%",
+					}
+				},
+				Cloak = {
+					itemID = 19857,
+					Obtain = {
+						Zone = "Zul'Gurub",
+						Type = "By Killing",
+						Method = "Hakkar",
+						Drop = "20.62%",
+					}
+				},
+				Chest = {
+					itemID = 19682,
+					Obtain = {
+						Zone = "Stanglethorn Vale",
+						Type = "By Profession (Tailoring)",
+						Method = "Vendor: Rin'wosho the Trader",
+						Drop = "",
+					}
+				},
+				Wrist = {
+					itemID = 16934,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Razorgore the Untamed",
+						Drop = "20.87%",
+					}
+				},
+				Gloves = {
+					itemID = 19407,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "16.37%",
+					}
+				},
+				Waist = {
+					itemID = 16933,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Vaelastrasz the Corrupt",
+						Drop = "20.75%",
+					}
+				},
+				Legs = {
+					itemID = 19683,
+					Obtain = {
+						Zone = "Stanglethorn Vale",
+						Type = "By Profession (Tailoring)",
+						Method = "Vendor: Rin'wosho the Trader",
+						Drop = "",
+					}
+				},
+				Boots = {
+					itemID = 19684,
+					Obtain = {
+						Zone = "Stanglethorn Vale",
+						Type = "By Profession (Tailoring)",
+						Method = "Vendor: Rin'wosho the Trader",
+						Drop = "",
+					}
+				},
+				Ring1 = {
+					itemID = 19893,
+					Obtain = {
+						Zone = "Zul'Gurub",
+						Type = "By Killing",
+						Method = "Broodlord Mandokir",
+						Drop = "15.67%",
+					}
+				},
+				Ring2 = {
+					itemID = 19905,
+					Obtain = {
+						Zone = "Zul'Gurub",
+						Type = "By Killing",
+						Method = "High Priest Venoxis",
+						Drop = "18.4%",
+					}
+				},
+				Trinket1 = {
+					itemID = 19379,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "18.76%",
+					}
+				},
+				Trinket2 = {
+					itemID = 18820,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "4-11%",
+					}
+				},
+				MainHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "8.07%",
+					}
+				},
+				OffHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 19861,
+					Obtain = {
+						Zone = "Zul'Gurub",
+						Type = "By Killing",
+						Method = "Hakkar",
+						Drop = "12.11%",
+					}
+				},
 			}
 		}
-		
 	},
 	Warrior = {
 		Fury = {
