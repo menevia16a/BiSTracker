@@ -904,7 +904,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -1060,7 +1060,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -1216,7 +1216,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -3246,7 +3246,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -6369,7 +6369,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -6525,7 +6525,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -9489,7 +9489,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -9645,7 +9645,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -9801,7 +9801,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -10269,7 +10269,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -10425,7 +10425,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -10581,7 +10581,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -11550,7 +11550,161 @@ BiSData = {
 						Drop = "",
 					}
 				},
-
+			},
+			Phase4 = {
+				Head = {
+					itemID = 19375,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "15.05%",
+					}
+				},
+				Neck = {
+					itemID = 18814,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "11%",
+					}
+				},
+				Shoulder = {
+					itemID = 18829,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Several bosses",
+						Drop = "2%",
+					}
+				},
+				Cloak = {
+					itemID = 19378,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "19.34%",
+					}
+				},
+				Chest = {
+					itemID = 20635,
+					Obtain = {
+						Zone = "Multiple zones",
+						Type = "By Killing",
+						Method = "World boss: Ysondre",
+						Drop = "35.71%",
+					}
+				},
+				Wrist = {
+					itemID = 19374,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Broodlord Lashlayer",
+						Drop = "18.30%",
+					}
+				},
+				Gloves = {
+					itemID = 20618,
+					Obtain = {
+						Zone = "Multiple zones",
+						Type = "By Killing",
+						Method = "World boss: any green dragon",
+						Drop = "6-18%",
+					}
+				},
+				Waist = {
+					itemID = 19400,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Firemaw",
+						Drop = "14.30%",
+					}
+				},
+				Legs = {
+					itemID = 19165,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Pattern: Flarecore Leggings (Tailoring)",
+						Method = "Vendor: Lokhtos Darkbargainer",
+						Drop = "",
+					}
+				},
+				Boots = {
+					itemID = 20634,
+					Obtain = {
+						Zone = "Multiple zones",
+						Type = "By Killing",
+						Method = "World boss: Taerar",
+						Drop = "23.53%",
+					}
+				},
+				Ring1 = {
+					itemID = 19147,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "5%",
+					}
+				},
+				Ring2 = {
+					itemID = 19403,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "17.45%",
+					}
+				},
+				Trinket1 = {
+					itemID = 19379,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "18.76%",
+					}
+				},
+				Trinket2 = {
+					itemID = 18820,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Several bosses",
+						Drop = "8%",
+					}
+				},
+				MainHand = {
+					itemID = 19360,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "8.66%",
+					}
+				},
+				OffHand = {
+					itemID = 19366,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Quest",
+						Method = "The Lord of Blackrock",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 			}
 		},
 		Enhancement = {
@@ -11677,7 +11831,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -11833,7 +11987,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -11989,7 +12143,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -12037,8 +12191,8 @@ BiSData = {
 					Obtain = {
 						Zone = "Onyxia's Lair",
 						Type = "by Killing",
-						Method = "by Quest: Head of Onyxia",
-						Drop = "100%",
+						Method = "by Quest: For All to See",
+						Drop = "",
 					}
 				},
 				Shoulder = {
@@ -12145,7 +12299,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -12176,7 +12330,161 @@ BiSData = {
 						Drop = "",
 					}
 				},
-
+			},
+			Phase4 = {
+				Head = {
+					itemID = 18817,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Ragnaros",
+						Drop = "14%",
+					}
+				},
+				Neck = {
+					itemID = 18404,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "by Killing",
+						Method = "by Quest: For All To See",
+						Drop = "",
+					}
+				},
+				Shoulder = {
+					itemID = 20680,
+					Obtain = {
+						Zone = "Silithus",
+						Type = "By killing",
+						Method = "Prince Skaldrenox",
+						Drop = "57.14%",
+					}
+				},
+				Cloak = {
+					itemID = 19436,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "9-18%",
+					}
+				},
+				Chest = {
+					itemID = 11726,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "Gorosh the Dervish",
+						Drop = "11%",
+					}
+				},
+				Wrist = {
+					itemID = 18812,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Majordomo Executus",
+						Drop = "5%",
+					}
+				},
+				Gloves = {
+					itemID = 19157,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By profession (Leatherworking)",
+						Method = "Vendor: Lokhtos Darkbargainer",
+						Drop = "",
+					}
+				},
+				Waist = {
+					itemID = 19380,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "18.67%",
+					}
+				},
+				Legs = {
+					itemID = 20668,
+					Obtain = {
+						Zone = "Silithus",
+						Type = "By Killing",
+						Method = "The Duke of Fathoms",
+						Drop = "24.27%",
+					}
+				},
+				Boots = {
+					itemID = 19381,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "16.40%",
+					}
+				},
+				Ring1 = {
+					itemID = 18821,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By killing",
+						Method = "Various bosses",
+						Drop = "4-12%",
+					}
+				},
+				Ring2 = {
+					itemID = 19384,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Quest",
+						Method = "The Lord of Blackrock",
+						Drop = "",
+					}
+				},
+				Trinket1 = {
+					itemID = 19406,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Ebonroc",
+						Drop = "17.73%",
+					}
+				},
+				Trinket2 = {
+					itemID = 11815,
+					Obtain = {
+						Zone = "Blackrock Depths",
+						Type = "By Killing",
+						Method = "General Angerforge",
+						Drop = "4%",
+					}
+				},
+				MainHand = {
+					itemID = 17104,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Ragnaros",
+						Drop = "5%",
+					}
+				},
+				OffHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 			}
 		},
 		Restoration = {
@@ -12317,12 +12625,12 @@ BiSData = {
 					}
 				},
 				OffHand = {
-					itemID = 11928,
+					itemID = 11815,
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
-						Drop = "14%",
+						Method = "General Angerforge",
+						Drop = "4%",
 					}
 				},
 				Ranged = {
@@ -12801,7 +13109,161 @@ BiSData = {
 						Drop = "",
 					}
 				},
-
+			},
+			Phase4 = {
+				Head = {
+					itemID = 16947,
+					Obtain = {
+						Zone = "Onyxia's Lair",
+						Type = "By Killing",
+						Method = "Onyxia",
+						Drop = "8.99%",
+					}
+				},
+				Neck = {
+					itemID = 19885,
+					Obtain = {
+						Zone = "Zul'Gurub",
+						Type = "By Killing",
+						Method = "Jin'do the Hexxer",
+						Drop = "15.10%",
+					}
+				},
+				Shoulder = {
+					itemID = 16945,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Chromaggus",
+						Drop = "8.73%",
+					}
+				},
+				Cloak = {
+					itemID = 19430,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Flamegor",
+						Drop = "20.01%",
+					}
+				},
+				Chest = {
+					itemID = 16950,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "9.92%",
+					}
+				},
+				Wrist = {
+					itemID = 16943,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Razorgore the Untamed",
+						Drop = "10.95%",
+					}
+				},
+				Gloves = {
+					itemID = 16839,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Gehennas",
+						Drop = "16.15%",
+					}
+				},
+				Waist = {
+					itemID = 16838,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Trash",
+						Drop = "0.3-1.1%",
+					}
+				},
+				Legs = {
+					itemID = 16843,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Magmadar",
+						Drop = "9.24%",
+					}
+				},
+				Boots = {
+					itemID = 16837,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "By Killing",
+						Method = "Lucifron",
+						Drop = "10.96%",
+					}
+				},
+				Ring1 = {
+					itemID = 19140,
+					Obtain = {
+						Zone = "Molten Core",
+						Type = "by Killing",
+						Method = "Majordomo Executus",
+						Drop = "21%",
+					}
+				},
+				Ring2 = {
+					itemID = 19382,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "18.08%",
+					}
+				},
+				Trinket1 = {
+					itemID = 20636,
+					Obtain = {
+						Zone = "Multiple zones",
+						Type = "By Killing",
+						Method = "World boss: Ysondre",
+						Drop = "14.29%",
+					}
+				},
+				Trinket2 = {
+					itemID = 19395,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Several Bosses",
+						Drop = "11-13%",
+					}
+				},
+				MainHand = {
+					itemID = 19356,
+					Obtain = {
+						Zone = "Blackwing Lair",
+						Type = "By Killing",
+						Method = "Nefarian",
+						Drop = "8.07%",
+					}
+				},
+				OffHand = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
+				Ranged = {
+					itemID = 0,
+					Obtain = {
+						Zone = "",
+						Type = "",
+						Method = "",
+						Drop = "",
+					}
+				},
 			}
 		}
 	},
@@ -13557,7 +14019,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -13713,7 +14175,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -13869,7 +14331,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
@@ -14024,7 +14486,7 @@ BiSData = {
 					Obtain = {
 						Zone = "Blackrock Depths",
 						Type = "By Killing",
-						Method = "Emperor Dagran Thaurissan",
+						Method = "General Angerforge",
 						Drop = "4%",
 					}
 				},
